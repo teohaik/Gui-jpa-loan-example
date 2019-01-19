@@ -6,11 +6,18 @@ Contains two simple Entities (LOAN and INSTALLMENT) with OneToMany relationship 
 Preferrable editor: **Netbeans**
 
 
+
+## Problem description (In Greek)
+
+![Description](https://github.com/teohaik/Gui-jpa-loan-example/blob/master/Problem_Description.PNG)
+
+
+
 ## ERD of the example:
 
 ![Example ERD](https://github.com/teohaik/Gui-jpa-loan-example/blob/master/ERD.PNG)
 
 
-## Problem description (In Greek)
+## Swing GUI Screenshot
 
-![Description](https://github.com/teohaik/Gui-jpa-loan-example/blob/master/Problem_Description.PNG)
+![Screenshot](https://github.com/teohaik/Gui-jpa-loan-example/blob/master/JFrame.PNG)
