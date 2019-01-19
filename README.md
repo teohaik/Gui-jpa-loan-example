@@ -7,3 +7,8 @@ Contains two simple Entities (LOAN and INSTALLMENT) with OneToMany relationship 
 ## ERD of the example:
 
 ![Example ERD](https://github.com/teohaik/Gui-jpa-loan-example/blob/master/ERD.PNG)
+
+
+## Problem description (In Greek)
+
+![Description](https://github.com/teohaik/Gui-jpa-loan-example/blob/master/Problem_Description.PNG)
